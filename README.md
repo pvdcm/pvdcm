@@ -7,7 +7,7 @@
 
 ---
 ![Pedro Muller's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvdcm&count_private=true&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvdcm&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvdcm&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
