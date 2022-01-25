@@ -1,9 +1,10 @@
 ### Hi there, I’m Pedro Muller
 
-- 🌱 I’m currently learning React
-- 🖥  I’m looking forward to learn more about web development
-- 👯 I’m looking to collaborate with Front-end Developers.
-- 🥅 2021 Goals: Work at some personal projects
+- 💻 I’m currently learning about cybersecurity.
+- 🖥  I’m willing to learn more about web development.
+- 👯 I’m looking to collaborate with Developers.
+- 🥅 2022 Goals: Learn python, and a bit of node.js.
+- 👨‍💻 My personal goals are: Do some rooms on Try Hack me, and try to do bug bounties. 
 
 ---
 ![Pedro Muller's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvdcm&count_private=true&theme=tokyonight&hide_border=true)
