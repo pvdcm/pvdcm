@@ -3,7 +3,7 @@
 - 💻 I’m currently learning about cybersecurity.
 - 🖥  I’m willing to learn more about web development.
 - 👯 I’m looking to collaborate with Developers.
-- 🥅 2022 Goals: Learn python, and a bit of node.js.
+- 🥅 2023 Goals: Learn python, and a bit of node.js.
 - 👨‍💻 My personal goals are: Do some rooms on Try Hack me, and try to do bug bounties. 
 
 ---
