@@ -1,10 +1,9 @@
 ### Hi there, I’m Pedro Muller
 
-- 💻 I’m currently learning about cybersecurity.
+- 💻 I’m currently learning about cybersecurity and QA.
 - 🖥  I’m willing to learn more about web development.
 - 👯 I’m looking to collaborate with Developers.
-- 🥅 2023 Goals: Learn python, and a bit of node.js.
-- 👨‍💻 My personal goals are: Do some rooms on Try Hack me, and try to do bug bounties. 
+- 🥅 2024 Goals: Finish my EBAC course, and organize my study schedule.
 
 ---
 ![Pedro Muller's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvdcm&count_private=true&theme=tokyonight&hide_border=true)
